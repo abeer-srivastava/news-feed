@@ -1,4 +1,4 @@
-# 🗞️ भारत समाचार - News Portal
+# 🗞️ Bharat news  - News Portal
 
 A modern, SEO-optimized news portal built with **Next.js 16**, **TypeScript**, and **TailwindCSS**. Features dark mode, animations, and a responsive design inspired by Indian news websites.
 
@@ -317,4 +317,3 @@ For support, email your.email@example.com or open an issue on GitHub.
 
 ---
 
-**Made with ❤️ in India**
